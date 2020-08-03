@@ -1,1 +1,3 @@
+# CSS Grid Layout
+
 A Grid layout with images that span multiple elements from scratch using CSS, specifically the "background-attachment: fixed" property/value
